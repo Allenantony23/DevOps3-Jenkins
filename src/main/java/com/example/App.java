@@ -8,9 +8,10 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Allen Welcome to jenkins dashboard!" );
+        System.out.println( "Hello Amuthan!" );
     }
 }
+
 
 
 
